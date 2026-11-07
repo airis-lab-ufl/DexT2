@@ -1,6 +1,6 @@
-# Dex-T2 — EgoSuite-Style GitHub Pages Website
+# DexT2 — EgoSuite-Style GitHub Pages Website
 
-A static website for **Dex-T2** modeled after [lightwheel.ai/media/egosuite-open100k](https://lightwheel.ai/media/egosuite-open100k), ready for direct deployment to GitHub Pages (`github.io`).
+A static website for **DexT2** modeled after [lightwheel.ai/media/egosuite-open100k](https://lightwheel.ai/media/egosuite-open100k), ready for direct deployment to GitHub Pages (`github.io`).
 
 ## Features
 
